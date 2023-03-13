@@ -35,6 +35,7 @@ A student management system (software) project is a graphical user interface (GU
 * PyMySQL
 * Pandas
 * Time
+* MySQL
 
 
 ## Requirements For `.exe` File
