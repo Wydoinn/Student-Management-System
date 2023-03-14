@@ -376,7 +376,7 @@ window.configure(bg='#9f00c5')
 
 # icon for the window
 global icon
-icon = ImageTk.PhotoImage(file=r'D:\Documents\Code\Projects\Student Management Database\icon.png')
+icon = ImageTk.PhotoImage(file=r'icon.png')
 window.iconphoto(False, icon)
 
 # create date and time label
@@ -398,7 +398,7 @@ left_frame = tk.Frame(window, bg='#9f00c5')
 left_frame.place(x=25, y=80, width=300, height=650)
 
 # create logo image
-logo_img = ImageTk.PhotoImage(file=r'D:\Documents\Code\Projects\Student Management Database\logo.png')
+logo_img = ImageTk.PhotoImage(file=r'logo.png')
 logo_label = tk.Label(left_frame, image=logo_img, bg='#9f00c5')
 logo_label.grid(row=0, column=0, padx=20, pady=10)
 
