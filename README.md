@@ -66,4 +66,4 @@ A student management system (software) project is a graphical user interface (GU
 
 * For connecting databases, the host name, username, and password are the same as for a MySQL connection.
 
-* For opening the file, Username - `admin` and Password - `admin@123`
+* For logging in, Username - `admin` and Password - `admin@123`
