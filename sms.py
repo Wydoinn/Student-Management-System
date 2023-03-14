@@ -437,12 +437,11 @@ export_student_button = ttk.Button(left_frame, text='Export Student', cursor='ha
                                    command=export_data)
 export_student_button.grid(row=7, column=0, padx=20, pady=20)
 
-
-
 # exit button
 exit_student_button = ttk.Button(left_frame, text='EXIT', cursor='hand2', width=25,
                                  command=exit)
 exit_student_button.grid(row=8, column=0, padx=20, pady=40)
+
 
 
 # create right frame
@@ -496,5 +495,6 @@ student_table.column('Address',anchor='center',width=600)
 style = ttk.Style()
 style.configure('Treeview', rowheight=35, font=('aerial', 13, 'bold'), foreground='#9f00c5', background='#f5f5f5')
 style.configure('Treeview.Heading', font=('Comic Sans MS', 15, 'bold'), foreground='#080808')
+
 
 window.mainloop()
