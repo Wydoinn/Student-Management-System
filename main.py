@@ -20,11 +20,11 @@ root.resizable(0,0)
 root.title('Student Management System')
 
 #icon for the window
-icon = ImageTk.PhotoImage(file=r'D:\Documents\Code\Projects\Student Management Database\icon.png')
+icon = ImageTk.PhotoImage(file=r'icon.png')
 root.iconphoto(False, icon)
 
 # add background image
-bg_img = ImageTk.PhotoImage(file=r'D:\Documents\Code\Projects\Student Management Database\bg.jpg')
+bg_img = ImageTk.PhotoImage(file=r'D:bg.jpg')
 
 bg_label = tk.Label(root, image=bg_img)
 bg_label.place(x=0, y=0)
@@ -34,7 +34,7 @@ login_frame = tk.Frame(root, bg='#f5f5f5')
 login_frame.place(x=425, y=250)
 
 # load the login logo image
-login_img = ImageTk.PhotoImage(file=r'D:\Documents\Code\Projects\Student Management Database\login.png')
+login_img = ImageTk.PhotoImage(file=r'login.png')
 
 # create a label widget to display the login logo image
 login_label = tk.Label(login_frame, image =login_img, width=128, height=128)
@@ -42,7 +42,7 @@ login_label.grid(row=3, column=0, padx=20, pady=10)
 
 
 # create username
-uname_img = ImageTk.PhotoImage(file=r'D:\Documents\Code\Projects\Student Management Database\uname.png')
+uname_img = ImageTk.PhotoImage(file=r'uname.png')
 
 uname_label = tk.Label(login_frame, image=uname_img, text='Username', compound='left', font=('Comic Sans MS', 15, 'bold'))
 uname_label.grid(row= 1, column=0, padx=20, pady=10)
@@ -51,7 +51,7 @@ uname_entry.grid(row=1, column=1)
 
 
 # create password
-pass_img = ImageTk.PhotoImage(file=r'D:\Documents\Code\Projects\Student Management Database\pass.png')
+pass_img = ImageTk.PhotoImage(file=r'pass.png')
 
 pass_label = tk.Label(login_frame, image = uname_img, text='Password', compound='left', font=('Comic Sans MS', 15, 'bold'))
 pass_label.grid(row= 2, column=0, padx=20, pady=10)
