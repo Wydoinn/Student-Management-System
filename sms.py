@@ -365,7 +365,7 @@ def connect_database():
 # create a main window
 window = ttkthemes.ThemedTk()
 
-window.get_themes
+window.get_themes()
 window.set_theme('breeze')
 
 # create window
