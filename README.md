@@ -18,11 +18,6 @@
 A student management system (software) project is a graphical user interface (GUI)-based Python script and executable that allows the administrator to enter student data into a database and export the data to a CSV file. In this project, I utilised Tkinter for the graphical user interface, PyMySQL for database and query creation, PIL for picture loading, Pandas to convert the data to a CSV file, time to define the time, and date and as well as ttkthemes for the button themes.
 
 
-## Images
-
-![Images](https://github.com/Wydoinn/Student-Management-System/blob/9930a6a90f78300a1fc1ac5720872b52f1a86133/Images/Image%201.png/468x300?text=App+Screenshot+Here)
-
-
 ## Requirements For `.py` File
 * Tkinter
 * PIL
