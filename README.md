@@ -20,7 +20,7 @@ A student management system (software) project is a graphical user interface (GU
 
 ## Images
 
-![App Screenshot](https://github.com/Wydoinn/Student-Management-System/blob/9930a6a90f78300a1fc1ac5720872b52f1a86133/Images/Image%201.png/468x300?text=App+Screenshot+Here)
+![Images](https://github.com/Wydoinn/Student-Management-System/blob/9930a6a90f78300a1fc1ac5720872b52f1a86133/Images/Image%201.png/468x300?text=App+Screenshot+Here)
 
 
 ## Requirements For `.py` File
