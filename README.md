@@ -20,10 +20,10 @@ A student management system (software) project is a graphical user interface (GU
 
 ## Images
 
-  ![App Screenshot](https://github.com/Wydoinn/Student-Management-System/blob/main/Images/Image%201.png/468x300?text=App+Screenshot+Here)
-  <img src="https://github.com/wyd-18/Student-Management-System/blob/main/Images/Image%202.png?raw=true" alt="Image 2" width="500">
-  <img src="https://github.com/wyd-18/Student-Management-System/blob/main/Images/Image%203.png?raw=true" alt="Image 3" width="500">
-  <img src="https://github.com/wyd-18/Student-Management-System/blob/main/Images/Image%204.png?raw=true" alt="Image 3" width="500">
+![App Screenshot](https://github.com/Wydoinn/Student-Management-System/blob/main/Images/Image%201.png/468x300?text=App+Screenshot+Here)
+<img src="https://github.com/wyd-18/Student-Management-System/blob/main/Images/Image%202.png?raw=true" alt="Image 2" width="500">
+<img src="https://github.com/wyd-18/Student-Management-System/blob/main/Images/Image%203.png?raw=true" alt="Image 3" width="500">
+<img src="https://github.com/wyd-18/Student-Management-System/blob/main/Images/Image%204.png?raw=true" alt="Image 3" width="500">
 
 
 ## Requirements For `.py` File
